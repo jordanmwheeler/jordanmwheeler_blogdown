@@ -1,8 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Graduate Research Assistant at the Georgia Center of Assessment.
 education:
   courses:
   - course: PhD in Quantitative Methodology
@@ -14,7 +13,7 @@ education:
   - course: BSc in Mathematics
     institution: Nebraska Wesleyan University
     year: 2017
-email: ""
+email: "jmwheeler@uga.edu"
 interests:
 - Artificial Intelligence
 - Computational Linguistics
@@ -22,8 +21,8 @@ interests:
 name: Jordan Wheeler
 organizations:
 - name: University of Georgia
-  url: ""
-role: Quantiative Methodology PhD Student
+  url: "https://www.uga.edu/"
+role: Quantiative Methodology PhD Student <br/> jmwheeler@uga.edu
 social:
 - icon: github
   icon_pack: fab

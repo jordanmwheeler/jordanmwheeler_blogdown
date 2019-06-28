@@ -36,9 +36,17 @@ highlight_languages = ["r", "yaml", "toml", "markdown", "bash"]
 ###########################################################################
 ### Menu
 
+#[[menu.main]]
+#  name = "Home"
+#  url = "#about"
+#  weight = 1
+
+#############################################
+
 [[menu.main]]
-  name = "Home"
-  url = "#about"
+  name = "Blog"
+  identifier = "posts"
+  url = "/posts/"
   weight = 1
 
 #############################################
@@ -63,23 +71,23 @@ highlight_languages = ["r", "yaml", "toml", "markdown", "bash"]
 
 #############################################
   
-[[menu.main]]
-    name = "Publications"
-    identifier = "publications"
-    url = "/publication/"
-    weight = 3
-[[menu.main]]
-    name = "Published"
-    parent = "publications"
-    identifier = "published"
-    url = ""
-    weight = 1
-[[menu.main]]
-    name = "Submitted"
-    parent = "publications"
-    identifier = "submitted"
-    url = ""
-    weight = 2
+#[[menu.main]]
+#    name = "Publications"
+#    identifier = "publications"
+#    url = "/publication/"
+#    weight = 3
+#[[menu.main]]
+#    name = "Published"
+#    parent = "publications"
+#    identifier = "published"
+#    url = ""
+#    weight = 1
+#[[menu.main]]
+#    name = "Submitted"
+#    parent = "publications"
+#    identifier = "submitted"
+#    url = ""
+#    weight = 2
 
 #############################################
 
@@ -105,7 +113,7 @@ highlight_languages = ["r", "yaml", "toml", "markdown", "bash"]
 
 [[menu.main]]
     name = "Running"
-    url = "/running/"
+    url = "running/"
     weight = 5
 
 ###########################################################################

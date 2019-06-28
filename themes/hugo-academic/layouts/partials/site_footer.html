@@ -1,22 +1,20 @@
 <footer class="site-footer">
-  {{ with site.GetPage "privacy.md" }}
-  <p class="powered-by">
-    {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
-  </p>
-  {{ end }}
-
-  <p class="powered-by">
+  <hr>
+  <p class="powered-by" align="center">
     {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} &middot; {{ end }}
 
-    Powered by the
-    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
-    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+    Last Updated: June 28, 2019
+    <br>
+    Created with <a href="https://www.r-project.org/" target="_blank" rel="noopener">R</a>
+    (<a href="https://bookdown.org/yihui/blogdown/" target="_blank" rel="noopener">blogdown</a> &
+    <a href="https://rmarkdown.rstudio.com/" target="_blank" rel="noopener">rmarkdown</a>) and
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>
 
     {{ if ne .Type "docs" }}
     <span class="float-right" aria-hidden="true">
       <a href="#" id="back_to_top">
         <span class="button_icon">
-          <i class="fas fa-chevron-up fa-2x"></i>
+          <i class="fas fa-chevron-up fa"></i>
         </span>
       </a>
     </span>

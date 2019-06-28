@@ -153,6 +153,15 @@
   </url>
   
   <url>
+    <loc>/running/</loc>
+  </url>
+  
+  <url>
+    <loc>/running/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/</loc>
     <priority>0</priority>
   </url>
