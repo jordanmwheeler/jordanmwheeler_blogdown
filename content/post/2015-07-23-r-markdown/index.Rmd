@@ -1,9 +1,25 @@
 ---
-title: "Hello R Markdown"
-author: "Frida Gomam"
-date: 2015-07-23T21:13:14-05:00
-categories: ["R"]
-tags: ["R Markdown", "plot", "regression"]
+title: Test Post Two
+author: 
+  - jwheeler
+date: '2015-06-27'
+categories:
+  - R
+tags:
+  - Deep Learning
+  - plot
+  - R Markdown
+subtitle: ''
+summary: 'Default Post from Blogdown creators'
+authors: 
+  - jwheeler
+lastmod: '2019-06-27T13:48:59-05:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
 ---
 
 ```{r setup, include=FALSE}

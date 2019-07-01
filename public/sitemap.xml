@@ -34,6 +34,12 @@
   </url>
   
   <url>
+    <loc>/author/</loc>
+    <lastmod>2019-06-27T13:48:59-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <lastmod>2019-06-27T13:48:59-05:00</lastmod>
     <priority>0</priority>
@@ -69,8 +75,14 @@
   </url>
   
   <url>
-    <loc>/post/hello-world-test/</loc>
+    <loc>/2019/06/27/hello-world-test/</loc>
     <lastmod>2019-06-27T13:48:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jwheeler/</loc>
+    <lastmod>2019-06-27T13:48:59-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -80,8 +92,20 @@
   </url>
   
   <url>
+    <loc>/publication_types/3/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/notused/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -128,18 +152,24 @@
   </url>
   
   <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/notused/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <loc>/2015/06/27/test-post-two/</loc>
+    <lastmod>2019-06-27T13:48:59-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -153,21 +183,25 @@
   </url>
   
   <url>
+    <loc>/authors/jwheeler/</loc>
+  </url>
+  
+  <url>
     <loc>/running/</loc>
   </url>
   
   <url>
     <loc>/running/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/notused/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/jordan-wheeler/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>

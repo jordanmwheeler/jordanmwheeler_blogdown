@@ -1,6 +1,7 @@
 ---
 title: Test Post
-author: Jordan Wheeler
+author: 
+  - jwheeler
 date: '2019-06-27'
 slug: hello-world-test
 categories:
@@ -9,9 +10,10 @@ tags:
   - Deep Learning
   - plot
   - R Markdown
-subtitle: ''
-summary: ''
-authors: []
+subtitle: 'Test subtitle for post'
+summary: 'This is a test post to see if this works'
+authors:
+  - jwheeler
 lastmod: '2019-06-27T13:48:59-05:00'
 featured: no
 image:

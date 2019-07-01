@@ -46,7 +46,7 @@ highlight_languages = ["r", "yaml", "toml", "markdown", "bash"]
 [[menu.main]]
   name = "Blog"
   identifier = "posts"
-  url = "/posts/"
+  url = "/post"
   weight = 1
 
 #############################################
@@ -54,19 +54,19 @@ highlight_languages = ["r", "yaml", "toml", "markdown", "bash"]
 [[menu.main]]
     name = "Resume/CV"
     identifier = "resume-cv"
-    url = "/resume-cv/"
+    url = "/resume-cv"
     weight = 2
 [[menu.main]]
     name = "Curriculum Vitae"
     parent = "resume-cv"
     identifier = "cv"
-    url = "/resume-cv/cv/"
+    url = "/resume-cv/cv"
     weight = 1
 [[menu.main]]
     name = "Resume"
     parent = "resume-cv"
     identifier = "resume"
-    url = "/resume-cv/resume/"
+    url = "/resume-cv/resume"
     weight = 2
 
 #############################################
@@ -94,26 +94,26 @@ highlight_languages = ["r", "yaml", "toml", "markdown", "bash"]
 [[menu.main]]
     name = "School/Work"
     identifier = "school-work"
-    url = "/school-work/"
+    url = "/school-work"
     weight = 4
 [[menu.main]]
     name = "School Research/Work"
     parent = "school-work"
     identifier = "school"
-    url = "/school-work/research-work/"
+    url = "/school-work/research-work"
     weight = 1
 [[menu.main]]
     name = "R Shiny Apps"
     parent = "school-work"
     identifier = "shiny"
-    url = "/school-work/shinyapps/"
+    url = "/school-work/shinyapps"
     weight = 2
     
 #############################################
 
 [[menu.main]]
     name = "Running"
-    url = "running/"
+    url = "/running"
     weight = 5
 
 ###########################################################################
@@ -125,14 +125,14 @@ highlight_languages = ["r", "yaml", "toml", "markdown", "bash"]
     
     # Color theme.
     #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`, `strawberry`.
-    color_theme = "ocean"
+    color_theme = "jtown_theme"
     
     # Enable users to switch between day and night mode?
     day_night = false
     
     # Font style.
     #   Choose from `default`, `classic`, or `playfair`.
-    font = "default"
+    font = "jtown_font"
     
     # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
     sharing_image = ""
@@ -271,3 +271,12 @@ highlight_languages = ["r", "yaml", "toml", "markdown", "bash"]
   #   2: Algolia (https://www.algolia.com)
   engine = 0
 
+# Taxonomies.
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  publication_type = "publication_types"
+  author = "author"
+  
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
