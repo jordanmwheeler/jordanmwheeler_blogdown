@@ -3,40 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/notused/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/notused/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/notused/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/notused/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/notused/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/</loc>
     <lastmod>2019-06-27T13:48:59-05:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-06-27T13:48:59-05:00</lastmod>
   </url>
   
   <url>
@@ -52,8 +26,9 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>/</loc>
     <lastmod>2019-06-27T13:48:59-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -92,90 +67,13 @@
   </url>
   
   <url>
-    <loc>/publication_types/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/notused/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/notused/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/notused/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/notused/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/notused/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/notused/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/notused/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/2015/06/27/test-post-two/</loc>
     <lastmod>2019-06-27T13:48:59-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/notused/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -187,7 +85,11 @@
   </url>
   
   <url>
-    <loc>/running/</loc>
+    <loc>/resume-cv/cv/</loc>
+  </url>
+  
+  <url>
+    <loc>/resume-cv/resume/</loc>
   </url>
   
   <url>
@@ -196,11 +98,77 @@
   </url>
   
   <url>
-    <loc>/notused/courses/</loc>
+    <loc>/work/school-work/papers/finalp/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/work/school-work/presentations/cancergene_finalpresentation/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/work/school-work/presentations/contestone_returnclassification/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/work/school-work/presentations/contestthree_returnclassification/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/work/school-work/presentations/contesttwo_imageclassification/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/work/shinyapps/lmdiamondreportapp/</loc>
+  </url>
+  
+  <url>
+    <loc>/work/shinyapps/pacecalculatorapp/</loc>
   </url>
   
   <url>
     <loc>/author/jordan-wheeler/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/work/school-work/papers/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/work/school-work/presentations/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/resume-cv/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/running/</loc>
+  </url>
+  
+  <url>
+    <loc>/work/school-work/</loc>
+  </url>
+  
+  <url>
+    <loc>/work/shinyapps/</loc>
+  </url>
+  
+  <url>
+    <loc>/work/</loc>
     <priority>0</priority>
   </url>
   

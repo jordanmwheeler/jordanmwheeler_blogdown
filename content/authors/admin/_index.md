@@ -47,6 +47,10 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Quantitative Methodology graduate student at the University of Georgia in the Education Psychology Department.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am the recipient of the College of Education's Research Scholar Award. I work as a graduate assistant for the Georgia Center of Assessment where I focus my research on topic modeling and text analysis.
+
+Previously, I was a graduate student at the University of Nebraska Omaha where I earned my Master of Science in Mathematics with a concentration in Statistics. As partial fulfillment for my masters, I developed an application which pulled current stock data for any stock listed on the New York Stock Exchange data, via a Yahoo! API, and modeled the data using an ARMA + GARCH time series model. A grid search method was used to automate and optimize the parameters of the ARMA + GARCH model.
+
+I also worked as a statistician for a consulting company where I developed predictive models for clients in different industries.

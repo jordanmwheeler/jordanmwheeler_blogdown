@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Running"
 author: "Jordan Wheeler"
 description: "Jordan Wheeler's Running"
 output: md_document
@@ -39,6 +39,8 @@ output: md_document
 <!--     margin-right: auto; -->
 <!-- } -->
 </style>
+
+<hr style="border-color: #666666;">
 
 <h3>Running Profiles:</h3>
 

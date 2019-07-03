@@ -36,10 +36,10 @@ highlight_languages = ["r", "yaml", "toml", "markdown", "bash"]
 ###########################################################################
 ### Menu
 
-#[[menu.main]]
-#  name = "Home"
-#  url = "#about"
-#  weight = 1
+[[menu.main]]
+  name = "Home"
+  url = "#about"
+  weight = 1
 
 #############################################
 
@@ -47,7 +47,7 @@ highlight_languages = ["r", "yaml", "toml", "markdown", "bash"]
   name = "Blog"
   identifier = "posts"
   url = "/post"
-  weight = 1
+  weight = 2
 
 #############################################
 
@@ -55,7 +55,7 @@ highlight_languages = ["r", "yaml", "toml", "markdown", "bash"]
     name = "Resume/CV"
     identifier = "resume-cv"
     url = "/resume-cv"
-    weight = 2
+    weight = 3
 [[menu.main]]
     name = "Curriculum Vitae"
     parent = "resume-cv"
@@ -92,21 +92,21 @@ highlight_languages = ["r", "yaml", "toml", "markdown", "bash"]
 #############################################
 
 [[menu.main]]
-    name = "School/Work"
+    name = "Work"
     identifier = "school-work"
-    url = "/school-work"
+    url = "/work"
     weight = 4
 [[menu.main]]
-    name = "School Research/Work"
+    name = "School Work"
     parent = "school-work"
     identifier = "school"
-    url = "/school-work/research-work"
+    url = "/work/school-work"
     weight = 1
 [[menu.main]]
     name = "R Shiny Apps"
     parent = "school-work"
     identifier = "shiny"
-    url = "/school-work/shinyapps"
+    url = "/work/shinyapps"
     weight = 2
     
 #############################################

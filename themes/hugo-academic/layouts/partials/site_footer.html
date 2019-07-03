@@ -1,23 +1,23 @@
 <footer class="site-footer">
-  <hr>
-  <p class="powered-by" align="center">
-    {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} &middot; {{ end }}
 
-    Last Updated: June 28, 2019
-    <br>
-    Created with <a href="https://www.r-project.org/" target="_blank" rel="noopener">R</a>
-    (<a href="https://bookdown.org/yihui/blogdown/" target="_blank" rel="noopener">blogdown</a> &
-    <a href="https://rmarkdown.rstudio.com/" target="_blank" rel="noopener">rmarkdown</a>) and
-    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>
+<p class="powered-by" align="center">
+{{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} &middot; {{ end }}
 
-    {{ if ne .Type "docs" }}
-    <span class="float-right" aria-hidden="true">
-      <a href="#" id="back_to_top">
-        <span class="button_icon">
-          <i class="fas fa-chevron-up fa"></i>
-        </span>
-      </a>
-    </span>
-    {{ end }}
-  </p>
+Last Updated: July 03, 2019
+<br>
+Created with <a href="https://www.r-project.org/" target="_blank" rel="noopener">R</a>
+(<a href="https://bookdown.org/yihui/blogdown/" target="_blank" rel="noopener">blogdown</a> &
+<a href="https://rmarkdown.rstudio.com/" target="_blank" rel="noopener">rmarkdown</a>) and
+<a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>
+
+{{ if ne .Type "docs" }}
+<span class="float-right" aria-hidden="true">
+<a href="#" id="back_to_top">
+<span class="button_icon">
+<i class="fas fa-chevron-up fa"></i>
+</span>
+</a>
+</span>
+{{ end }}
+</p>
 </footer>

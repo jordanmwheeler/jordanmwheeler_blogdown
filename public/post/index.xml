@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Jordan M. Wheeler</title>
+    <title>Blog Posts on Jordan M. Wheeler</title>
     <link>/post/</link>
-    <description>Recent content in Posts on Jordan M. Wheeler</description>
+    <description>Recent content in Blog Posts on Jordan M. Wheeler</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <lastBuildDate>Thu, 27 Jun 2019 00:00:00 +0000</lastBuildDate>
     
@@ -24,6 +24,9 @@
 x = x*2
 x&lt;/code&gt;&lt;/pre&gt;
 &lt;pre&gt;&lt;code&gt;## [1]  4  8 12 16&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Hi Carl&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;hist(rnorm(1000))&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2019-06-27-test-post/index_files/figure-html/unnamed-chunk-2-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     

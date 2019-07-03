@@ -32,3 +32,9 @@ x = x*2
 x
 
 ```
+
+Hi Carl
+
+```{r}
+hist(rnorm(1000))
+```
