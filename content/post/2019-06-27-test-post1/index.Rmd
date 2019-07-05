@@ -33,7 +33,7 @@ x
 
 ```
 
-Hi Carl
+Test histogram
 
 ```{r}
 hist(rnorm(1000))

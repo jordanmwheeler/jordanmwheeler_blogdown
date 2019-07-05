@@ -5,16 +5,25 @@ name = "jtown_theme"
 light = true
 
 # Primary
-primary = "#008080"
+primary = "#396a93"
 
 # Menu
-menu_primary = "#008080" # 500
+menu_primary = "#396a93" # 500
 menu_text = "#ffffff"
-menu_text_active = "#404040" # A100
+menu_text_active = "#a6a6a6" # A100
 menu_title = "#ffffff"
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
 home_section_even = "rgb(247, 247, 247)"
 
+
+####################################
+## primary and menu_primary = 008080
+## menu_text and menu_title = ffffff
+## menu_text_active = 404040
+####################################
+
 ## blue-ish = 85adad
+
+## Grey-ish = bfbfbf

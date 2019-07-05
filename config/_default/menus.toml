@@ -1,0 +1,84 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+[[main]]
+  name = "Home"
+  url = "#about"
+  weight = 10
+
+#############################################
+
+[[main]]
+  name = "Blog"
+  identifier = "posts"
+  url = "/post"
+  weight = 20
+
+#############################################
+
+[[main]]
+    name = "Resume/CV"
+    identifier = "resume-cv"
+    url = "/resume-cv"
+    weight = 30
+[[main]]
+    name = "Curriculum Vitae"
+    parent = "resume-cv"
+    identifier = "cv"
+    url = "/resume-cv/cv"
+    weight = 10
+[[main]]
+    name = "Resume"
+    parent = "resume-cv"
+    identifier = "resume"
+    url = "/resume-cv/resume"
+    weight = 20
+
+#############################################
+  
+#[[main]]
+#    name = "Publications"
+#    identifier = "publications"
+#    url = "/publication/"
+#    weight = 3
+#[[main]]
+#    name = "Published"
+#    parent = "publications"
+#    identifier = "published"
+#    url = ""
+#    weight = 1
+#[[main]]
+#    name = "Submitted"
+#    parent = "publications"
+#    identifier = "submitted"
+#    url = ""
+#    weight = 2
+
+#############################################
+
+[[main]]
+    name = "Work"
+    identifier = "school-work"
+    url = "/work"
+    weight = 40
+[[main]]
+    name = "School Work"
+    parent = "school-work"
+    identifier = "school"
+    url = "/work/school-work"
+    weight = 10
+[[main]]
+    name = "R Shiny Apps"
+    parent = "school-work"
+    identifier = "shiny"
+    url = "/work/shinyapps"
+    weight = 20
+    
+#############################################
+
+[[main]]
+    name = "Running"
+    url = "/running"
+    weight = 50
