@@ -8,8 +8,8 @@
 
 title = "Jordan M. Wheeler"
 description = "Jordan M. Wheeler, Quantitative Methodology Ph.D Student at University of Georgia (UGA)"
-baseurl = "/"
-googleAnalytics = ""
+baseurl = "http://jordanmwheeler.com/"
+googleAnalytics = "UA-123245200-1"
 disqusShortname = ""
 theme = "hugo-academic"
 
