@@ -187,6 +187,113 @@ Posters:
 &lt;/ul&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;!------------------------------------------------------&gt;
+&lt;u&gt;
+&lt;h3&gt;
+Undergraduate Work (Nebraska Wesleyan University) - B.Sc.
+&lt;/h3&gt;
+&lt;p&gt;&lt;/u&gt;&lt;/p&gt;
+&lt;h4&gt;
+Mathetmatics:
+&lt;/h4&gt;
+&lt;ul style=&#34;list-style-type:none&#34;&gt;
+&lt;li&gt;
+&lt;h5&gt;
+Papers:
+&lt;/h5&gt;
+&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;Papers/MatrixTreeTheoremPaper.pdf&#34; target=&#34;_blank&#34;&gt;Combinatorics: Rework of Matrix Tree Theorem (Senior Thesis)&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;Papers/Combinatorics_GraphTheory_Assignment1.pdf&#34; target=&#34;_blank&#34;&gt;Combinatorics: Proofs&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;Papers/TopologyPortfolio.pdf&#34; target=&#34;_blank&#34;&gt;Topology: Proofs Portfolio&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;Papers/MatrixMultiplicationTrigFunctions_GroupPaper.pdf&#34; target=&#34;_blank&#34;&gt;Abstract Algebra: Group Proof Paper - Matrix Multiplication Trig Function&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;Papers/Combinatorics_GraphTheory_Assignment2.pdf&#34; target=&#34;_blank&#34;&gt;Graph Theory: Proofs&lt;/a&gt;
+&lt;/li&gt;
+&lt;br/&gt;
+&lt;/ul&gt;
+&lt;li&gt;
+&lt;h5&gt;
+Beamer Presentations:
+&lt;/h5&gt;
+&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;Presentations/MatrixTreeTheoremPresentation.pdf&#34; target=&#34;_blank&#34;&gt;Combinatorics: Matrix Tree Theorem (Rework)&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;Presentations/GroupPresentation.pdf&#34; target=&#34;_blank&#34;&gt;Abstract Algebra: Group Proof Presentation - Matrix Multiplication Trig Function&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;Presentations/BanachMazurPresentation.pdf&#34; target=&#34;_blank&#34;&gt;Topology: Banach Mazur Winning Strategies Presentation&lt;/a&gt;
+&lt;/li&gt;
+&lt;br/&gt;
+&lt;/ul&gt;
+&lt;li&gt;
+&lt;h5&gt;
+Posters:
+&lt;/h5&gt;
+&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;Posters/BasicStatisticsPoster.pdf&#34; target=&#34;_blank&#34;&gt;Analysis of the Impact of Exercise on GPA&lt;/a&gt;
+&lt;/li&gt;
+&lt;br/&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;h4&gt;
+Education:
+&lt;/h4&gt;
+&lt;ul style=&#34;list-style-type:none&#34;&gt;
+&lt;li&gt;
+&lt;h5&gt;
+Papers:
+&lt;/h5&gt;
+&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;Papers/PostivePsychology_EdPluralistic.pdf&#34; target=&#34;_blank&#34;&gt;Education in Pluralistic Society: Positive Psychology in the Classroom (Midterm Paper)&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;Papers/WhySchools.pdf&#34; target=&#34;_blank&#34;&gt;Intro to Education: Why do Schools Exist (Midterm Paper)&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;
+Miscellaneous:
+&lt;/h4&gt;
+&lt;ul style=&#34;list-style-type:none&#34;&gt;
+&lt;li&gt;
+&lt;h5&gt;
+Papers:
+&lt;/h5&gt;
+&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;&#34;&gt;Religious Identity Term Paper&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;li&gt;
+&lt;h5&gt;
+Presentations:
+&lt;/h5&gt;
+&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;Presentations/LaCrosseDevotional.pdf&#34;&gt;2017 LaCrosse Cross Country Meet Devotional&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;!------------------------------------------------------&gt;
 </description>
     </item>
     
@@ -208,7 +315,7 @@ Item Response Theory Applications:
 &lt;/h2&gt;
 &lt;div&gt;
 &lt;h6 style=&#34;float: left; font-size: 12pt; text-align: center; width: 45%; margin-right: 5%; margin-bottom: 0.5em;&#34;&gt;
-Item Characteristic Curve:&lt;br/&gt;&lt;br/&gt;&lt;a href = &#34;http://159.65.226.102/shiny/SingleItemCharacteristicCurve/&#34;&gt;&lt;img src=&#34;/img/ICCPhoto.png&#34; alt=&#34;Single Item Characteristic Curve Application&#34;&gt;&lt;/a&gt;
+Item Characteristic Curve:&lt;br/&gt;&lt;br/&gt;&lt;a href = &#34;http://159.65.226.102/shiny/SingleItemCharacteristicCurve/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;/img/ICCPhoto.png&#34; alt=&#34;Single Item Characteristic Curve Application&#34;&gt;&lt;/a&gt;
 &lt;/h6&gt;
 &lt;/div&gt;
 &lt;br/&gt;
@@ -219,7 +326,7 @@ Master’s Project Application:
 &lt;br/&gt;&lt;/p&gt;
 &lt;div&gt;
 &lt;h6 style=&#34;float: left; font-size: 12pt; text-align: center; width: 45%; margin-right: 5%; margin-bottom: 0.5em;&#34;&gt;
-NYSE Automatic Forecast:&lt;br/&gt;&lt;br/&gt;&lt;a href = &#34;http://159.65.226.102/shiny/ForecastingApplication&#34;&gt;&lt;img src=&#34;/img/StockForecastPhoto.png&#34; alt=&#34;Stock Forecasting Application&#34;&gt;&lt;/a&gt;
+NYSE Automatic Forecast:&lt;br/&gt;&lt;br/&gt;&lt;a href = &#34;http://159.65.226.102/shiny/ForecastingApplication&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;/img/StockForecastPhoto.png&#34; alt=&#34;Stock Forecasting Application&#34;&gt;&lt;/a&gt;
 &lt;/h6&gt;
 &lt;/div&gt;
 &lt;!-- &lt;div&gt; --&gt;
@@ -233,10 +340,10 @@ Old Applications (First App’s I Created):
 &lt;br/&gt;&lt;/p&gt;
 &lt;div&gt;
 &lt;h6 style=&#34;float: left; font-size: 12pt; text-align: center; width: 45%; margin-right: 5%; margin-bottom: 0.5em;&#34;&gt;
-Linear Model Report:&lt;br/&gt;&lt;br/&gt;&lt;a href = &#34;http://159.65.226.102/shiny/DiamondReportApplication/&#34;&gt;&lt;img src=&#34;/img/LMReportPhoto.png&#34; alt=&#34;Linear Model on Diamonds Report Application&#34;&gt;&lt;/a&gt;
+Linear Model Report:&lt;br/&gt;&lt;br/&gt;&lt;a href = &#34;http://159.65.226.102/shiny/DiamondReportApplication/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;/img/LMReportPhoto.jpg&#34; alt=&#34;Linear Model on Diamonds Report Application&#34;&gt;&lt;/a&gt;
 &lt;/h6&gt;
 &lt;h6 style=&#34;float: left; font-size: 12pt; text-align: center; width: 45%; margin-left: 5%; margin-bottom: 0.5em;&#34;&gt;
-Running and Pace Calculator:&lt;br/&gt;&lt;br/&gt;&lt;a href = &#34;http://159.65.226.102/shiny/PaceCalculator/&#34;&gt;&lt;img src=&#34;/img/PaceCalcPhoto.png&#34; alt=&#34;Pace Calculator Application&#34;&gt;&lt;/a&gt;
+Running and Pace Calculator:&lt;br/&gt;&lt;br/&gt;&lt;a href = &#34;http://159.65.226.102/shiny/PaceCalculator/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;/img/PaceCalcPhoto.jpg&#34; alt=&#34;Pace Calculator Application&#34;&gt;&lt;/a&gt;
 &lt;/h6&gt;
 &lt;div/&gt;
 &lt;p&gt;&lt;br/&gt;

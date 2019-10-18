@@ -13,7 +13,7 @@ output: md_document
 <h2>Item Response Theory Applications:</h2>
 
 <div>
-<h6 style="float: left; font-size: 12pt; text-align: center; width: 45%; margin-right: 5%; margin-bottom: 0.5em;">Item Characteristic Curve:<br/><br/><a href = "http://159.65.226.102/shiny/SingleItemCharacteristicCurve/"><img src="/img/ICCPhoto.png" alt="Single Item Characteristic Curve Application"></a></h6>
+<h6 style="float: left; font-size: 12pt; text-align: center; width: 45%; margin-right: 5%; margin-bottom: 0.5em;">Item Characteristic Curve:<br/><br/><a href = "http://159.65.226.102/shiny/SingleItemCharacteristicCurve/" target="_blank"><img src="/img/ICCPhoto.png" alt="Single Item Characteristic Curve Application"></a></h6>
 </div>
 
 <br/>
@@ -22,7 +22,7 @@ output: md_document
 <br/>
 
 <div>
-<h6 style="float: left; font-size: 12pt; text-align: center; width: 45%; margin-right: 5%; margin-bottom: 0.5em;">NYSE Automatic Forecast:<br/><br/><a href = "http://159.65.226.102/shiny/ForecastingApplication"><img src="/img/StockForecastPhoto.png" alt="Stock Forecasting Application"></a></h6>
+<h6 style="float: left; font-size: 12pt; text-align: center; width: 45%; margin-right: 5%; margin-bottom: 0.5em;">NYSE Automatic Forecast:<br/><br/><a href = "http://159.65.226.102/shiny/ForecastingApplication" target="_blank"><img src="/img/StockForecastPhoto.png" alt="Stock Forecasting Application"></a></h6>
 </div>
 
 <!-- <div> -->
@@ -35,9 +35,9 @@ output: md_document
 <br/>
 
 <div>
-<h6 style="float: left; font-size: 12pt; text-align: center; width: 45%; margin-right: 5%; margin-bottom: 0.5em;">Linear Model Report:<br/><br/><a href = "http://159.65.226.102/shiny/DiamondReportApplication/"><img src="/img/LMReportPhoto.png" alt="Linear Model on Diamonds Report Application"></a></h6>
+<h6 style="float: left; font-size: 12pt; text-align: center; width: 45%; margin-right: 5%; margin-bottom: 0.5em;">Linear Model Report:<br/><br/><a href = "http://159.65.226.102/shiny/DiamondReportApplication/" target="_blank"><img src="/img/LMReportPhoto.jpg" alt="Linear Model on Diamonds Report Application"></a></h6>
 
-<h6 style="float: left; font-size: 12pt; text-align: center; width: 45%; margin-left: 5%; margin-bottom: 0.5em;">Running and Pace Calculator:<br/><br/><a href = "http://159.65.226.102/shiny/PaceCalculator/"><img src="/img/PaceCalcPhoto.png" alt="Pace Calculator Application"></a></h6>
+<h6 style="float: left; font-size: 12pt; text-align: center; width: 45%; margin-left: 5%; margin-bottom: 0.5em;">Running and Pace Calculator:<br/><br/><a href = "http://159.65.226.102/shiny/PaceCalculator/" target="_blank"><img src="/img/PaceCalcPhoto.jpg" alt="Pace Calculator Application"></a></h6>
 <div/>
 <br/>
 <br/>
