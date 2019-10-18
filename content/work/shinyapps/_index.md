@@ -8,7 +8,7 @@ Item Response Theory Applications:
 
 <h6 style="float: left; font-size: 12pt; text-align: center; width: 45%; margin-right: 5%; margin-bottom: 0.5em;">
 Item Characteristic
-Curve:<br/><br/><a href = "SingleICCApp/"><img src="thumbnails/ICCPhoto.jpg" alt="Single Item Characteristic Curve Application"></a>
+Curve:<br/><br/><a href = "singleiccapp/"><img src="thumbnails/ICCPhoto.jpg" alt="Single Item Characteristic Curve Application"></a>
 </h6>
 
 <br/>
@@ -20,7 +20,7 @@ Master’s Project Application:
 
 <h6 style="float: left; font-size: 12pt; text-align: center; width: 45%; margin-right: 5%; margin-bottom: 0.5em;">
 NYSE Automatic
-Forecast:<br/><br/><a href = "ForecastApp/"><img src="thumbnails/ForecastPhoto.jpg" alt="Stock Forecasting Application"></a>
+Forecast:<br/><br/><a href = "forecastapp/"><img src="thumbnails/forecastphoto.jpg" alt="Stock Forecasting Application"></a>
 </h6>
 
 <br/>
@@ -33,11 +33,11 @@ Old Applications (First App’s I Created):
 <div>
 <h6 style="float: left; font-size: 12pt; text-align: center; width: 45%; margin-right: 5%; margin-bottom: 0.5em;">
 Linear Model
-Report:<br/><br/><a href = "LMDiamondReportApp/"><img src="thumbnails/LMReportPhoto.jpg" alt="Linear Model on Diamonds Report Application"></a>
+Report:<br/><br/><a href = "lmdiamondreportapp/"><img src="thumbnails/LMReportPhoto.jpg" alt="Linear Model on Diamonds Report Application"></a>
 </h6>
 <h6 style="float: left; font-size: 12pt; text-align: center; width: 45%; margin-left: 5%; margin-bottom: 0.5em;">
 Running and Pace
-Calculator:<br/><br/><a href = "PaceCalculatorApp/"><img src="thumbnails/PaceCalcPhoto.jpg" alt="Pace Calculator Application"></a>
+Calculator:<br/><br/><a href = "pacecalculatorapp/"><img src="thumbnails/PaceCalcPhoto.jpg" alt="Pace Calculator Application"></a>
 </h6>
 <div/>
 
