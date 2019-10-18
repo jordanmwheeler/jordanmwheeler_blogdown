@@ -20,5 +20,5 @@ description: "Jordan Wheeler's Pace Calculator Application"
 
 
 <div align="center">
-<iframe src="https://jordamwheeler.shinyapps.io/PaceCalculatorApp/" scrolling="yes" frameborder="no" width="1000" height="1250"></iframe>
+<iframe src="http://159.65.226.102:3838/PaceCalculator/" scrolling="yes" frameborder="no" width="1000" height="1250"></iframe>
 </div>

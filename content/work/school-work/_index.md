@@ -1,0 +1,332 @@
+<meta name="author" content="Jordan Wheeler">
+<meta name="description" content="Jordan Wheeler's Work">
+<hr style="border-color: #666666;">
+<u>
+<h3>
+Graduate Work (University of Georgia) - Ph.D.
+</h3>
+
+</u>
+
+<!------------------------------------------------------>
+<u>
+<h3>
+Graduate Work (University of Nebraska Omaha) - M.Sc.
+</h3>
+
+</u>
+
+<h4>
+Master of Science
+</h4>
+<ul style="list-style-type:none">
+<li>
+<h5>
+Project:
+</h5>
+</li>
+<ul>
+<li>
+<a href="https://jordanmwheeler.com/work/shinyapps/ForecastApp/" target="_blank">Master
+of Science Project Web Application</a> (Automated ARMA+GARCH Stock
+Forecasting)</b>
+</li>
+<li>
+<a href="Papers/MasterProjectWriteUp.pdf" target="_blank">Master of
+Science Project Write Up</a> (Automated ARMA+GARCH Stock
+Forecasting)</b>
+</li>
+<li>
+<a href="Presentations/MastersProject.pdf" target="_blank">Master of
+Science Project Presentation</a> (Automated ARMA+GARCH Stock
+Forecasting)</b>
+</li>
+<br/>
+</ul>
+</ul>
+<h4>
+Mathetmatics/Statistics:
+</h4>
+<ul style="list-style-type:none">
+<li>
+<h5>
+Machine Learning Competitions (Presentations):
+</h5>
+</li>
+<ul>
+<li>
+<a href="Presentations/ContestOne_ReturnClassification/" target="_blank">Contest
+One (Group): Online Retail Return Classification</a> <b>(First Place out
+of Nine)</b>
+</li>
+<li>
+<a href="Presentations/ContestTwo_ImageClassification/" target="_blank">Contest
+Two (Group): Plant Image Classification and Deep Learning</a> <b>(Third
+Place out of Nine)</b>
+</li>
+<li>
+<a href="Presentations/ContestThree_ReturnClassification/" target="_blank">Contest
+Three (Individual - Final): Online Retail Return Classification</a>
+<b>(Second Place Place out of Twenty-Nine)</b>
+</li>
+<br/>
+</ul>
+<li>
+<h5>
+Projects:
+</h5>
+</li>
+<ul>
+<li>
+<a href="Papers/FinalP/" target="_blank">Advanced Statistics Integrated
+Final Project (Prestige Data Set)</a>
+</li>
+<li>
+<a href="" target="_blank">Bayesian Statistics Final (UEFA Championship
+League Predictions)</a>
+</li>
+<br/>
+</ul>
+<li>
+<h5>
+Papers:
+</h5>
+</li>
+<ul>
+<li>
+<a href="Papers/CancerGene_FinalReport.pdf" target="_blank">Data Science
+Final Paper: A Pan-Cancer Analysis of Gene Expression Data Across 32
+Tissues</a>
+</li>
+</ul>
+<br>
+<li>
+<h5>
+Posters:
+</h5>
+</li>
+<ul>
+<li>
+<a href="Posters/GunViolence_Poster.pdf" target="_blank">Data
+Visualization Final Poster (Topic: U.S. Gun Violence)</a>
+</li>
+</ul>
+<br>
+<li>
+<h5>
+Presentations:
+</h5>
+</li>
+<ul>
+<li>
+<a href="Presentations/CancerGene_FinalPresentation/" target="_blank">Data
+Science Final Presentation: A Pan-Cancer Analysis of Gene Expression
+Data Across 32 Tissues</a>
+</li>
+</ul>
+</ul>
+
+<br>
+
+<h4>
+Economics:
+</h4>
+<ul style="list-style-type:none">
+<li>
+<h5>
+Papers:
+</h5>
+</li>
+<ul>
+<li>
+<a href="Papers/Econometrics_ProjectWriteUp.pdf" target="_blank">Econometrics:
+Data Analysis Project Write Up</a>
+</li>
+<li>
+<a href="Papers/ChampionshipStyleRacing_GameTheory.pdf" target="_blank">Game
+Theory: Overview Analysis of Championship Style Racing</a>
+</li>
+</ul>
+</ul>
+
+<br>
+
+<h4>
+Miscellaneous:
+</h4>
+
+<br/>
+
+<!------------------------------------------------------>
+<u>
+<h3>
+Graduate Work (Nebraska Wesleyan University) - M.Ed.
+</h3>
+
+</u>
+
+<h4>
+Education:
+</h4>
+<ul style="list-style-type:none">
+<li>
+<h5>
+Papers:
+</h5>
+</li>
+<ul>
+<li>
+<a href="Papers/PreActionResearchAnalysis.pdf" target="_blank">Education
+- Digital Literacy: Pre Action Research Analysis (Midterm Paper)</a>
+</li>
+<li>
+<a href="Papers/PostActionResearchAnalysis.pdf" target="_blank">Education
+- Digital Literacy: Post Action Research Analysis (Term Paper)</a>
+</li>
+<li>
+<a href="Papers/ReflectivePractitioner_BigPictureActionPlan.pdf" target="_blank">Education
+- Reflective Practitioner: Big Picture Action Plan (Final)</a>
+</li>
+<br/>
+</ul>
+<li>
+<h5>
+Posters:
+</h5>
+</li>
+<ul>
+<li>
+<a href="Posters/FirstYearMEdPoster.pdf" target="_blank">Master of
+Education First Year Research Poster</a>
+</li>
+<br/>
+</ul>
+</ul>
+
+<br/>
+
+<!------------------------------------------------------>
+<u>
+<h3>
+Undergraduate Work (Nebraska Wesleyan University) - B.Sc.
+</h3>
+
+</u>
+
+<h4>
+Mathetmatics:
+</h4>
+<ul style="list-style-type:none">
+<li>
+<h5>
+Papers:
+</h5>
+</li>
+<ul>
+<li>
+<a href="Papers/MatrixTreeTheoremPaper.pdf" target="_blank">Combinatorics:
+Rework of Matrix Tree Theorem (Senior Thesis)</a>
+</li>
+<li>
+<a href="Papers/Combinatorics_GraphTheory_Assignment1.pdf" target="_blank">Combinatorics:
+Proofs</a>
+</li>
+<li>
+<a href="Papers/TopologyPortfolio.pdf" target="_blank">Topology: Proofs
+Portfolio</a>
+</li>
+<li>
+<a href="Papers/MatrixMultiplicationTrigFunctions_GroupPaper.pdf" target="_blank">Abstract
+Algebra: Group Proof Paper - Matrix Multiplication Trig Function</a>
+</li>
+<li>
+<a href="Papers/Combinatorics_GraphTheory_Assignment2.pdf" target="_blank">Graph
+Theory: Proofs</a>
+</li>
+<br/>
+</ul>
+<li>
+<h5>
+Beamer Presentations:
+</h5>
+</li>
+<ul>
+<li>
+<a href="Presentations/MatrixTreeTheoremPresentation.pdf" target="_blank">Combinatorics:
+Matrix Tree Theorem (Rework)</a>
+</li>
+<li>
+<a href="Presentations/GroupPresentation.pdf" target="_blank">Abstract
+Algebra: Group Proof Presentation - Matrix Multiplication Trig
+Function</a>
+</li>
+<li>
+<a href="Presentations/BanachMazurPresentation.pdf" target="_blank">Topology:
+Banach Mazur Winning Strategies Presentation</a>
+</li>
+<br/>
+</ul>
+<li>
+<h5>
+Posters:
+</h5>
+</li>
+<ul>
+<li>
+<a href="Posters/BasicStatisticsPoster.pdf" target="_blank">Analysis of
+the Impact of Exercise on GPA</a>
+</li>
+<br/>
+</ul>
+</ul>
+<h4>
+Education:
+</h4>
+<ul style="list-style-type:none">
+<li>
+<h5>
+Papers:
+</h5>
+</li>
+<ul>
+<li>
+<a href="Papers/PostivePsychology_EdPluralistic.pdf" target="_blank">Education
+in Pluralistic Society: Positive Psychology in the Classroom (Midterm
+Paper)</a>
+</li>
+<li>
+<a href="Papers/WhySchools.pdf" target="_blank">Intro to Education: Why
+do Schools Exist (Midterm Paper)</a>
+</li>
+</ul>
+</ul>
+
+<br>
+
+<h4>
+Miscellaneous:
+</h4>
+<ul style="list-style-type:none">
+<li>
+<h5>
+Papers:
+</h5>
+</li>
+<ul>
+<li>
+<a href="">Religious Identity Term Paper</a>
+</li>
+</ul>
+<li>
+<h5>
+Presentations:
+</h5>
+</li>
+<ul>
+<li>
+<a href="Presentations/LaCrosseDevotional.pdf">2017 LaCrosse Cross
+Country Meet Devotional</a>
+</li>
+</ul>
+</ul>
+<!------------------------------------------------------>

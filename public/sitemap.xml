@@ -93,11 +93,6 @@
   </url>
   
   <url>
-    <loc>/running/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/work/school-work/papers/finalp/</loc>
     <priority>0</priority>
   </url>
@@ -123,11 +118,19 @@
   </url>
   
   <url>
+    <loc>/work/shinyapps/forecastapp/</loc>
+  </url>
+  
+  <url>
     <loc>/work/shinyapps/lmdiamondreportapp/</loc>
   </url>
   
   <url>
     <loc>/work/shinyapps/pacecalculatorapp/</loc>
+  </url>
+  
+  <url>
+    <loc>/work/shinyapps/singleiccapp/</loc>
   </url>
   
   <url>

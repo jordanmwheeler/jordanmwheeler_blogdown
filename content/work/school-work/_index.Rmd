@@ -21,7 +21,7 @@ output: md_document
 <ul style="list-style-type:none">
 <li><h5>Project:</h5></li>
 <ul>
-<li><a href="" target="_blank">Master of Science Project Web Application</a> (Automated ARMA+GARCH Stock Forecasting)</b></li>
+<li><a href="https://jordanmwheeler.com/work/shinyapps/ForecastApp/" target="_blank">Master of Science Project Web Application</a> (Automated ARMA+GARCH Stock Forecasting)</b></li>
 <li><a href="Papers/MasterProjectWriteUp.pdf" target="_blank">Master of Science Project Write Up</a> (Automated ARMA+GARCH Stock Forecasting)</b></li>
 <li><a href="Presentations/MastersProject.pdf" target="_blank">Master of Science Project Presentation</a> (Automated ARMA+GARCH Stock Forecasting)</b></li>
 <br/>
