@@ -10,5 +10,114 @@
 	    <atom:link href="/work/shinyapps/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title></title>
+      <link>/work/shinyapps/forecastapp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/work/shinyapps/forecastapp/</guid>
+      <description>
+
+
+&lt;meta name=&#34;author&#34; content=&#34;Jordan Wheeler&#34;&gt;
+&lt;meta name=&#34;description&#34; content=&#34;Jordan Wheeler&#39;s Stock Forecasting App&#34;&gt;
+&lt;!-- Global site tag (gtag.js) - Google Analytics --&gt;
+&lt;script async src=&#34;https://www.googletagmanager.com/gtag/js?id=UA-123245200-1&#34;&gt;&lt;/script&gt;
+&lt;script&gt;
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag(&#39;js&#39;, new Date());
+
+  gtag(&#39;config&#39;, &#39;UA-123245200-1&#39;);
+&lt;/script&gt;
+&lt;div align=&#34;center&#34;&gt;
+&lt;iframe src=&#34;http://159.65.226.102/shiny/ForecastingApplication&#34; scrolling=&#34;yes&#34; frameborder=&#34;no&#34; width=&#34;1000&#34; height=&#34;1250&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/work/shinyapps/lmdiamondreportapp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/work/shinyapps/lmdiamondreportapp/</guid>
+      <description>
+
+
+&lt;meta name=&#34;author&#34; content=&#34;Jordan Wheeler&#34;&gt;
+&lt;meta name=&#34;description&#34; content=&#34;Jordan Wheeler&#39;s LM Report App&#34;&gt;
+&lt;!-- Global site tag (gtag.js) - Google Analytics --&gt;
+&lt;script async src=&#34;https://www.googletagmanager.com/gtag/js?id=UA-123245200-1&#34;&gt;&lt;/script&gt;
+&lt;script&gt;
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag(&#39;js&#39;, new Date());
+
+  gtag(&#39;config&#39;, &#39;UA-123245200-1&#39;);
+&lt;/script&gt;
+&lt;div align=&#34;center&#34;&gt;
+&lt;iframe src=&#34;http://159.65.226.102/shiny/DiamondReportApplication/&#34; scrolling=&#34;yes&#34; frameborder=&#34;no&#34; width=&#34;1000&#34; height=&#34;1250&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/work/shinyapps/pacecalculatorapp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/work/shinyapps/pacecalculatorapp/</guid>
+      <description>
+
+
+&lt;meta name=&#34;author&#34; content=&#34;Jordan Wheeler&#34;&gt;
+&lt;meta name=&#34;keywords&#34; content=&#34;Running, Running Calculator, Pace Calculator, VO2Max, Race Predictor&#34;&gt;
+&lt;meta name=&#34;description&#34; content=&#34;Jordan Wheeler&#39;s Pace Calculator Application&#34;&gt;
+&lt;!-- Global site tag (gtag.js) - Google Analytics --&gt;
+&lt;script async src=&#34;https://www.googletagmanager.com/gtag/js?id=UA-123245200-1&#34;&gt;&lt;/script&gt;
+&lt;script&gt;
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag(&#39;js&#39;, new Date());
+
+  gtag(&#39;config&#39;, &#39;UA-123245200-1&#39;);
+&lt;/script&gt;
+&lt;div align=&#34;center&#34;&gt;
+&lt;iframe src=&#34;http://159.65.226.102/shiny/PaceCalculator/&#34; scrolling=&#34;yes&#34; frameborder=&#34;no&#34; width=&#34;1000&#34; height=&#34;1250&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/work/shinyapps/singleiccapp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/work/shinyapps/singleiccapp/</guid>
+      <description>
+
+
+&lt;meta name=&#34;author&#34; content=&#34;Jordan Wheeler&#34;&gt;
+&lt;meta name=&#34;description&#34; content=&#34;Jordan Wheeler&#39;s ICC App&#34;&gt;
+&lt;!-- Global site tag (gtag.js) - Google Analytics --&gt;
+&lt;script async src=&#34;https://www.googletagmanager.com/gtag/js?id=UA-123245200-1&#34;&gt;&lt;/script&gt;
+&lt;script&gt;
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag(&#39;js&#39;, new Date());
+
+  gtag(&#39;config&#39;, &#39;UA-123245200-1&#39;);
+&lt;/script&gt;
+&lt;div align=&#34;center&#34;&gt;
+&lt;iframe src=&#34;http://159.65.226.102/shiny/SingleItemCharacteristicCurve/&#34; scrolling=&#34;yes&#34; frameborder=&#34;no&#34; width=&#34;1000&#34; height=&#34;1250&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

@@ -10,5 +10,240 @@
 	    <atom:link href="/work/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>School Work</title>
+      <link>/work/school-work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/work/school-work/</guid>
+      <description>
+
+
+&lt;meta name=&#34;author&#34; content=&#34;Jordan Wheeler&#34;&gt;
+&lt;meta name=&#34;description&#34; content=&#34;Jordan Wheeler&#39;s Work&#34;&gt;
+&lt;hr style=&#34;border-color: #666666;&#34;&gt;
+&lt;u&gt;
+&lt;h3&gt;
+Graduate Work (University of Georgia) - Ph.D.
+&lt;/h3&gt;
+&lt;p&gt;&lt;/u&gt;&lt;/p&gt;
+&lt;!------------------------------------------------------&gt;
+&lt;u&gt;
+&lt;h3&gt;
+Graduate Work (University of Nebraska Omaha) - M.Sc.
+&lt;/h3&gt;
+&lt;p&gt;&lt;/u&gt;&lt;/p&gt;
+&lt;h4&gt;
+Master of Science
+&lt;/h4&gt;
+&lt;ul style=&#34;list-style-type:none&#34;&gt;
+&lt;li&gt;
+&lt;h5&gt;
+Project:
+&lt;/h5&gt;
+&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://159.65.226.102/shiny/ForecastingApplication&#34; target=&#34;_blank&#34;&gt;Master of Science Project Web Application&lt;/a&gt; (Automated ARMA+GARCH Stock Forecasting)&lt;/b&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;Papers/MasterProjectWriteUp.pdf&#34; target=&#34;_blank&#34;&gt;Master of Science Project Write Up&lt;/a&gt; (Automated ARMA+GARCH Stock Forecasting)&lt;/b&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;Presentations/MastersProject.pdf&#34; target=&#34;_blank&#34;&gt;Master of Science Project Presentation&lt;/a&gt; (Automated ARMA+GARCH Stock Forecasting)&lt;/b&gt;
+&lt;/li&gt;
+&lt;br/&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;h4&gt;
+Mathetmatics/Statistics:
+&lt;/h4&gt;
+&lt;ul style=&#34;list-style-type:none&#34;&gt;
+&lt;li&gt;
+&lt;h5&gt;
+Machine Learning Competitions (Presentations):
+&lt;/h5&gt;
+&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;Presentations/ContestOne_ReturnClassification/&#34; target=&#34;_blank&#34;&gt;Contest One (Group): Online Retail Return Classification&lt;/a&gt; &lt;b&gt;(First Place out of Nine)&lt;/b&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;Presentations/ContestTwo_ImageClassification/&#34; target=&#34;_blank&#34;&gt;Contest Two (Group): Plant Image Classification and Deep Learning&lt;/a&gt; &lt;b&gt;(Third Place out of Nine)&lt;/b&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;Presentations/ContestThree_ReturnClassification/&#34; target=&#34;_blank&#34;&gt;Contest Three (Individual - Final): Online Retail Return Classification&lt;/a&gt; &lt;b&gt;(Second Place Place out of Twenty-Nine)&lt;/b&gt;
+&lt;/li&gt;
+&lt;br/&gt;
+&lt;/ul&gt;
+&lt;li&gt;
+&lt;h5&gt;
+Projects:
+&lt;/h5&gt;
+&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;Papers/FinalP/&#34; target=&#34;_blank&#34;&gt;Advanced Statistics Integrated Final Project (Prestige Data Set)&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;&#34; target=&#34;_blank&#34;&gt;Bayesian Statistics Final (UEFA Championship League Predictions)&lt;/a&gt;
+&lt;/li&gt;
+&lt;br/&gt;
+&lt;/ul&gt;
+&lt;li&gt;
+&lt;h5&gt;
+Papers:
+&lt;/h5&gt;
+&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;Papers/CancerGene_FinalReport.pdf&#34; target=&#34;_blank&#34;&gt;Data Science Final Paper: A Pan-Cancer Analysis of Gene Expression Data Across 32 Tissues&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;li&gt;
+&lt;h5&gt;
+Posters:
+&lt;/h5&gt;
+&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;Posters/GunViolence_Poster.pdf&#34; target=&#34;_blank&#34;&gt;Data Visualization Final Poster (Topic: U.S. Gun Violence)&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;li&gt;
+&lt;h5&gt;
+Presentations:
+&lt;/h5&gt;
+&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;Presentations/CancerGene_FinalPresentation/&#34; target=&#34;_blank&#34;&gt;Data Science Final Presentation: A Pan-Cancer Analysis of Gene Expression Data Across 32 Tissues&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;
+Economics:
+&lt;/h4&gt;
+&lt;ul style=&#34;list-style-type:none&#34;&gt;
+&lt;li&gt;
+&lt;h5&gt;
+Papers:
+&lt;/h5&gt;
+&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;Papers/Econometrics_ProjectWriteUp.pdf&#34; target=&#34;_blank&#34;&gt;Econometrics: Data Analysis Project Write Up&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;Papers/ChampionshipStyleRacing_GameTheory.pdf&#34; target=&#34;_blank&#34;&gt;Game Theory: Overview Analysis of Championship Style Racing&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;
+Miscellaneous:
+&lt;/h4&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;!------------------------------------------------------&gt;
+&lt;u&gt;
+&lt;h3&gt;
+Graduate Work (Nebraska Wesleyan University) - M.Ed.
+&lt;/h3&gt;
+&lt;p&gt;&lt;/u&gt;&lt;/p&gt;
+&lt;h4&gt;
+Education:
+&lt;/h4&gt;
+&lt;ul style=&#34;list-style-type:none&#34;&gt;
+&lt;li&gt;
+&lt;h5&gt;
+Papers:
+&lt;/h5&gt;
+&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;Papers/PreActionResearchAnalysis.pdf&#34; target=&#34;_blank&#34;&gt;Education - Digital Literacy: Pre Action Research Analysis (Midterm Paper)&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;Papers/PostActionResearchAnalysis.pdf&#34; target=&#34;_blank&#34;&gt;Education - Digital Literacy: Post Action Research Analysis (Term Paper)&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;Papers/ReflectivePractitioner_BigPictureActionPlan.pdf&#34; target=&#34;_blank&#34;&gt;Education - Reflective Practitioner: Big Picture Action Plan (Final)&lt;/a&gt;
+&lt;/li&gt;
+&lt;br/&gt;
+&lt;/ul&gt;
+&lt;li&gt;
+&lt;h5&gt;
+Posters:
+&lt;/h5&gt;
+&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;Posters/FirstYearMEdPoster.pdf&#34; target=&#34;_blank&#34;&gt;Master of Education First Year Research Poster&lt;/a&gt;
+&lt;/li&gt;
+&lt;br/&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Shiny Applications</title>
+      <link>/work/shinyapps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/work/shinyapps/</guid>
+      <description>
+
+
+&lt;meta name=&#34;author&#34; content=&#34;Jordan Wheeler&#34;&gt;
+&lt;meta name=&#34;description&#34; content=&#34;Jordan Wheeler&#39;s Shiny Applications&#34;&gt;
+&lt;hr style=&#34;border-color: #666666;&#34;&gt;
+&lt;br/&gt;
+&lt;h2&gt;
+Item Response Theory Applications:
+&lt;/h2&gt;
+&lt;div&gt;
+&lt;h6 style=&#34;float: left; font-size: 12pt; text-align: center; width: 45%; margin-right: 5%; margin-bottom: 0.5em;&#34;&gt;
+Item Characteristic Curve:&lt;br/&gt;&lt;br/&gt;&lt;a href = &#34;http://159.65.226.102/shiny/SingleItemCharacteristicCurve/&#34;&gt;&lt;img src=&#34;/img/ICCPhoto.png&#34; alt=&#34;Single Item Characteristic Curve Application&#34;&gt;&lt;/a&gt;
+&lt;/h6&gt;
+&lt;/div&gt;
+&lt;br/&gt;
+&lt;h2 style=&#34;float: left; width: 100%;&#34;&gt;
+Master’s Project Application:
+&lt;/h2&gt;
+&lt;p&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;/p&gt;
+&lt;div&gt;
+&lt;h6 style=&#34;float: left; font-size: 12pt; text-align: center; width: 45%; margin-right: 5%; margin-bottom: 0.5em;&#34;&gt;
+NYSE Automatic Forecast:&lt;br/&gt;&lt;br/&gt;&lt;a href = &#34;http://159.65.226.102/shiny/ForecastingApplication&#34;&gt;&lt;img src=&#34;/img/StockForecastPhoto.png&#34; alt=&#34;Stock Forecasting Application&#34;&gt;&lt;/a&gt;
+&lt;/h6&gt;
+&lt;/div&gt;
+&lt;!-- &lt;div&gt; --&gt;
+&lt;!-- &lt;h6 style=&#34;float: left; font-size: 12pt; text-align: center; width: 45%; margin-right: 5%; margin-bottom: 0.5em;&#34;&gt;NYSE Automatic Forecast:&lt;br/&gt;&lt;br/&gt;&lt;a href = &#34;forecastapp/&#34;&gt;&lt;img src=&#34;thumbnails/forecastphoto.jpg&#34; alt=&#34;Stock Forecasting Application&#34;&gt;&lt;/a&gt;&lt;/h6&gt; --&gt;
+&lt;!-- &lt;/div&gt; --&gt;
+&lt;br/&gt;
+&lt;h2 style=&#34;float: left; width: 100%;&#34;&gt;
+Old Applications (First App’s I Created):
+&lt;/h2&gt;
+&lt;p&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;/p&gt;
+&lt;div&gt;
+&lt;h6 style=&#34;float: left; font-size: 12pt; text-align: center; width: 45%; margin-right: 5%; margin-bottom: 0.5em;&#34;&gt;
+Linear Model Report:&lt;br/&gt;&lt;br/&gt;&lt;a href = &#34;http://159.65.226.102/shiny/DiamondReportApplication/&#34;&gt;&lt;img src=&#34;/img/LMReportPhoto.png&#34; alt=&#34;Linear Model on Diamonds Report Application&#34;&gt;&lt;/a&gt;
+&lt;/h6&gt;
+&lt;h6 style=&#34;float: left; font-size: 12pt; text-align: center; width: 45%; margin-left: 5%; margin-bottom: 0.5em;&#34;&gt;
+Running and Pace Calculator:&lt;br/&gt;&lt;br/&gt;&lt;a href = &#34;http://159.65.226.102/shiny/PaceCalculator/&#34;&gt;&lt;img src=&#34;/img/PaceCalcPhoto.png&#34; alt=&#34;Pace Calculator Application&#34;&gt;&lt;/a&gt;
+&lt;/h6&gt;
+&lt;div/&gt;
+&lt;p&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;/p&gt;
+&lt;h6 style=&#34;clear: both;&#34;&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

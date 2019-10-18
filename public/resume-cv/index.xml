@@ -10,5 +10,644 @@
 	    <atom:link href="/resume-cv/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title></title>
+      <link>/resume-cv/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resume-cv/cv/</guid>
+      <description>
+
+
+&lt;meta name=&#34;author&#34; content=&#34;Jordan Wheeler&#34;&gt;
+&lt;meta name=&#34;description&#34; content=&#34;Jordan Wheeler&#39;s Curriculum Vitae&#34;&gt;
+&lt;style&gt;
+.alignleft {
+    float: left;
+}
+.alignright {
+    float: right;
+}
+&lt;/style&gt;
+&lt;a href=&#34;files/JordanWheeler_CV.pdf&#34; target=&#34;_blank&#34; style=&#34;color:steelblue;&#34;&gt;
+&lt;h1 style=&#34;color:steelblue;&#34;&gt;
+Curriculum Vitae (PDF Link)
+&lt;/h1&gt;
+&lt;p&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr style=&#34;border-color: #666666;&#34;&gt;
+&lt;div id=&#34;textbox&#34;&gt;
+&lt;h4 class=&#34;alignleft&#34;&gt;
+Curriculum Vitae
+&lt;/h4&gt;
+&lt;h4 class=&#34;alignright&#34;&gt;
+August 12, 2019
+&lt;/h4&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;center&gt;
+&lt;h2&gt;
+Jordan Wheeler
+&lt;/h2&gt;
+&lt;h4&gt;
+University of Nebraska, Omaha, Ne.
+&lt;/h4&gt;
+&lt;h4&gt;
+phone: (402) 707-9177, email: &lt;a href=&#34;mailto:jmwheeler@uga.edu&#34; class=&#34;email&#34;&gt;jmwheeler@uga.edu&lt;/a&gt;
+&lt;/h4&gt;
+&lt;/center&gt;
+&lt;hr/&gt;
+&lt;!-----------&gt;
+&lt;h4&gt;
+&lt;strong&gt;&lt;u&gt;Academic Background&lt;/u&gt;&lt;/strong&gt;
+&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+Doctorate of Philosophy in Ed. Psychology: University of Georgia (May 2023)
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+Quantitative Methodology Concentration
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;!-- &lt;li&gt;&lt;p&gt;&lt;/p&gt;&lt;/li&gt; --&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+Master of Science in Mathematics: University of Nebraska at Omaha (May 2019)
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+Statistics Concentration
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+3.82 overall GPA
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+Bachelor of Science in Mathematics: Nebraska Wesleyan University (May 2017)
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+3.54 overall GPA, 3.62 major GPA
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;!-----------&gt;
+&lt;h4&gt;
+&lt;strong&gt;&lt;u&gt;Research Experience&lt;/u&gt;&lt;/strong&gt;
+&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+University of Nebraska at Omaha Mathematics Department, Advisor: Dr. Mahbubul Majumder
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+Analysis of gene expression between tumor and normal tissue cells (Fall 2018)
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+Results are being written in a paper ”A Pan-Cancer Analysis of Gene Expression Data Across 32 Tissues” with intent of publication
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+Nebraska Wesleyan Health and Human Performance Department, Mentor: Dr. Ted Bulling
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+Analysis of Banked Track to Flat Track Conversions (Spring 2018 - Fall 2018)
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+Scraped web data to conduct Shapiro-Wilk Normality check, Paired Sample t-Test, and Bayesian MCMC Simulations to compared indoor track conversions
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+Findings and implications written in a paper and submitted for publication to the &lt;em&gt;International Journal of Performance Analysis in Sport&lt;/em&gt;: “Analysis of NCAA Division III 200/400 Indoor Track Conversions”
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+University of Nebraska at Omaha ISQA Department, Mentor: Dr. Christian Haas
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+Independent Research in Game Theory (Summer 2018)
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+Paper written with a comprehensive study of non-cooperative games
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+Nebraska Wesleyan Mathematics Department, Mentor: Dr. Austin Mohr
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+Graph Theory: Rework of Kirchoff’s Matrix Tree Theorem (Spring 2017)
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+Oral presentation at Doane University’s Mathematics Conference and at Nebraska Wesleyan’s Research Symposium
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+Paper written in partial fulfillment of the Bachelor of Science degree
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+Combinatorics: Kirkman Packing Designs (Spring 2017)
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+Implemented simulation and optimization techniques with &lt;em&gt;Python&lt;/em&gt;
+&lt;p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+Poster Presentation at Nebraska Wesleyan’s Research Symposium
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+Topology: Banach Mazur Topological Game (Spring 2016)
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+Composed proofs for strategies within different topological orders for the Banach-Mazur game
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+Beamer presentation at Nebraska Wesleyan’s Research Symposium
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+Topology: Countable and Uncountable Spaces (Spring 2016)
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+Composed proofs to prove countability and uncountability for different topological spaces
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;!-----------&gt;
+&lt;h4&gt;
+&lt;strong&gt;&lt;u&gt;Work Experience&lt;/u&gt;&lt;/strong&gt;
+&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+Research Assistant: UNO Mathematics Dept. (November 2018 - Present)
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+Working on visualization and text analysis on hateful speech
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+Working on protein analysis of HIV and non-HIV infected macrophages (white blood cell)
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+Weekly meetings to discuss current progress on research
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+CATCH Intelligence: Data Science Internship (January 2018 - Present)
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+25 - 35 Hours per week
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+Presented a webinar of the slide deck to potential clients
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+Created RShiny applications for different uses
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+Created multiple presentations to sell predictive and prescriptive services to clients
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+Volunteer Cross Country Coach: Omaha North Magnet High School (June 2018 - October 2018)
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+Worked with and provided workouts to high school student athletes
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+Worked with a team of coaches
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+Lincoln Public Schools: Mathematics Mentor (August 2017 - December 2017)
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+Worked 20 Hours per week
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+Mentored and taught highly gifted students in Mathematics
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+Created lesson plans and used multiple strategies to teach required topics
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+Accountable for writing reports of students’ progress for administration
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;!-----------&gt;
+&lt;h4&gt;
+&lt;strong&gt;&lt;u&gt;School Involvement&lt;/u&gt;&lt;/strong&gt;
+&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+Nebraska Wesleyan University
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+Student Athlete (Fall 2014 - Spring 2018)
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+Cross Country and Track
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+15 - 20 practice hours per week
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+Mathematics Club (Spring 2016 - Spring 2017)
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+Weekly meetings to discuss research
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;!-----------&gt;
+&lt;h4&gt;
+&lt;strong&gt;&lt;u&gt;Honors and Awards&lt;/u&gt;&lt;/strong&gt;
+&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+Nebraska Wesleyan 3.75+ Academic Honor List
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+10 x Academic All-Conference Team for Cross Country/Track and Field
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+9 x USTFCCCA All Academic Scholar Athlete
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+3.25+ GPA and one of the top performers in the nation
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+NCAA National Qualifier for Outdoor Track Championships in the 10,000 meters
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+Top 20 runners in the country per event qualify
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+National Qualifier for the NCAA Cross Country Championships
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+GPAC Cross Country Runner of the Year
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+2 x Conference Champion
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr style=&#34;border-color: #666666;&#34;&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/resume-cv/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resume-cv/resume/</guid>
+      <description>
+
+
+&lt;meta name=&#34;author&#34; content=&#34;Jordan Wheeler&#34;&gt;
+&lt;meta name=&#34;description&#34; content=&#34;Jordan Wheeler&#39;s Resume&#34;&gt;
+&lt;a href=&#34;files/JordanWheelerResume.pdf&#34; target=&#34;_blank&#34; style=&#34;color:steelblue;&#34;&gt;
+&lt;h1 style=&#34;color:steelblue;&#34;&gt;
+Resume (PDF Link)
+&lt;/h1&gt;
+&lt;p&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr style=&#34;border-color: #666666;&#34;&gt;
+&lt;style&gt;
+.alignleft {
+    float: left;
+}
+.alignright {
+    float: right;
+}
+&lt;/style&gt;
+&lt;div id=&#34;textbox&#34;&gt;
+&lt;h4 class=&#34;alignleft&#34;&gt;
+Resume
+&lt;/h4&gt;
+&lt;h4 class=&#34;alignright&#34;&gt;
+August 12, 2019
+&lt;/h4&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;center&gt;
+&lt;h2&gt;
+Jordan Wheeler
+&lt;/h2&gt;
+&lt;h4&gt;
+282 Sleepy Creek Dr., Athens GA. 30606
+&lt;/h4&gt;
+&lt;h4&gt;
+402-707-9177
+&lt;/h4&gt;
+&lt;h4&gt;
+&lt;a href=&#34;mailto:jmwheeler@outlook.com&#34; class=&#34;email&#34;&gt;jmwheeler@outlook.com&lt;/a&gt;
+&lt;/h4&gt;
+&lt;/center&gt;
+&lt;hr/&gt;
+&lt;h4&gt;
+&lt;strong&gt;&lt;u&gt;Education&lt;/u&gt;&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt;
+&lt;/h4&gt;
+&lt;p&gt;
+&lt;strong&gt;University of Georgia – Athens, GA. &lt;/strong&gt;(Anticipated: May 2023)
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+Doctorate of Philosophy in Ed. Psychology
+&lt;/li&gt;
+&lt;li&gt;
+Concentration: Quantitative Methodology
+&lt;/li&gt;
+&lt;li&gt;
+GPA:
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+&lt;strong&gt;University of Nebraska Omaha – Omaha, NE. &lt;/strong&gt;(May 2019)
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+Master of Science in Mathematics
+&lt;/li&gt;
+&lt;li&gt;
+Concentration: Statistics
+&lt;/li&gt;
+&lt;li&gt;
+GPA: 3.82/4.00
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+&lt;strong&gt;Nebraska Wesleyan University – Lincoln, NE. &lt;/strong&gt;(May 2017)
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+Bachelor of Science in Mathematics
+&lt;/li&gt;
+&lt;li&gt;
+Minor Equivalent in Computer Science
+&lt;/li&gt;
+&lt;li&gt;
+GPA: 3.54/4.00
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;
+&lt;strong&gt;&lt;u&gt;Work Experience&lt;/u&gt;&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt;
+&lt;/h4&gt;
+&lt;p&gt;
+&lt;strong&gt;Data Scientist,&lt;/strong&gt; CATCH Intelligence, January 2018 – Present
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+Worked with clients across multiple industries and delivered predictive analytic projects via R, Python, and SAP
+&lt;/li&gt;
+&lt;li&gt;
+Cleaned, mined, manipulated, and organized data with R, Python, and SQL
+&lt;/li&gt;
+&lt;li&gt;
+Generated and presented visuals and slide decks of descriptive, predictive, and prescriptive statistics
+&lt;/li&gt;
+&lt;li&gt;
+Developed web applications with RShiny for reporting and dashboards
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+&lt;strong&gt;Mentor, &lt;/strong&gt;Lincoln Public Schools, August 2017 – December 2017
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+Created lesson plans and used multiple strategies to teach required topics
+&lt;/li&gt;
+&lt;li&gt;
+Accountable for writing reports on students’ progress for administration
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;
+&lt;strong&gt;&lt;u&gt;Research Experience:&lt;/u&gt;&lt;/strong&gt;
+&lt;/h4&gt;
+&lt;strong&gt;Track Conversion Analysis, &lt;/strong&gt;Nebraska Wesleyan University, April 2018 – September 2018
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+Web scraped data and conducted multiple statistical analyses using R
+&lt;/li&gt;
+&lt;li&gt;
+Findings and implication written in a paper and submitted for publication
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;strong&gt;Kirkman Packing Design, &lt;/strong&gt;Nebraska Wesleyan University, October 2016 – May 2017
+&lt;ul&gt;
+&lt;li&gt;
+Studied and developed code to solve an original packing design problem
+&lt;/li&gt;
+&lt;li&gt;
+Implemented optimization techniques using Python
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;
+&lt;strong&gt;&lt;u&gt;Programming Skills&lt;/u&gt;&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt;
+&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+R, Python (pandas, statmodels, sklearn, and numpy)
+&lt;/li&gt;
+&lt;li&gt;
+Git, SQL, and Microsoft Office (including: Word, Excel, Access, PowerPoint and Outlook)
+&lt;/li&gt;
+&lt;li&gt;
+HTML, CSS, JavaScript
+&lt;/li&gt;
+&lt;li&gt;
+SAP Predictive Analytics
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;
+&lt;strong&gt;&lt;u&gt;Skills&lt;/u&gt;&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt;
+&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+Data cleaning, manipulation, and analysis
+&lt;/li&gt;
+&lt;li&gt;
+Predictive model building and evaluation
+&lt;/li&gt;
+&lt;li&gt;
+Mathematics and statistics education
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;
+&lt;strong&gt;&lt;u&gt;Activities&lt;/u&gt;&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt;
+&lt;/h4&gt;
+&lt;p&gt;
+&lt;strong&gt;Cross Country and Track and Field,&lt;/strong&gt; Nebraska Wesleyan University, August 2014 – May 2018
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+Provided leadership and organized workouts, meetings, and devotionals
+&lt;/li&gt;
+&lt;li&gt;
+Cross Country and Track and Field USTFCCCA All-Academic Team Honors
+&lt;/li&gt;
+&lt;li&gt;
+NCAA Division III Outdoor Track National Qualifier in 10,000 meters
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
