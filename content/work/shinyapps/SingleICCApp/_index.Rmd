@@ -19,5 +19,5 @@ description: "Jordan Wheeler's ICC App"
 
 
 <div align="center">
-<iframe src="http://159.65.226.102:3838/SingleItemCharacteristicCurve/" scrolling="yes" frameborder="no" width="1000" height="1250"></iframe>
+<iframe src="http://159.65.226.102/shiny/SingleItemCharacteristicCurve/" scrolling="yes" frameborder="no" width="1000" height="1250"></iframe>
 </div>

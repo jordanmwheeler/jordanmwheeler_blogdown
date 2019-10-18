@@ -19,5 +19,5 @@ description: "Jordan Wheeler's LM Report App"
 
 
 <div align="center">
-<iframe src="http://159.65.226.102:3838/DiamondReportApplication/" scrolling="yes" frameborder="no" width="1000" height="1250"></iframe>
+<iframe src="http://159.65.226.102/shiny/DiamondReportApplication/" scrolling="yes" frameborder="no" width="1000" height="1250"></iframe>
 </div>

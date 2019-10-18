@@ -670,7 +670,7 @@ NCAA Division III Outdoor Track National Qualifier in 10,000 meters
   gtag(&#39;config&#39;, &#39;UA-123245200-1&#39;);
 &lt;/script&gt;
 &lt;div align=&#34;center&#34;&gt;
-&lt;iframe src=&#34;http://159.65.226.102:3838/ForecastingApplication&#34; scrolling=&#34;yes&#34; frameborder=&#34;no&#34; width=&#34;1000&#34; height=&#34;1250&#34;&gt;
+&lt;iframe src=&#34;http://159.65.226.102/shiny/ForecastingApplication&#34; scrolling=&#34;yes&#34; frameborder=&#34;no&#34; width=&#34;1000&#34; height=&#34;1250&#34;&gt;
 &lt;/iframe&gt;
 &lt;/div&gt;
 </description>
@@ -697,7 +697,7 @@ NCAA Division III Outdoor Track National Qualifier in 10,000 meters
   gtag(&#39;config&#39;, &#39;UA-123245200-1&#39;);
 &lt;/script&gt;
 &lt;div align=&#34;center&#34;&gt;
-&lt;iframe src=&#34;http://159.65.226.102:3838/DiamondReportApplication/&#34; scrolling=&#34;yes&#34; frameborder=&#34;no&#34; width=&#34;1000&#34; height=&#34;1250&#34;&gt;
+&lt;iframe src=&#34;http://159.65.226.102/shiny/DiamondReportApplication/&#34; scrolling=&#34;yes&#34; frameborder=&#34;no&#34; width=&#34;1000&#34; height=&#34;1250&#34;&gt;
 &lt;/iframe&gt;
 &lt;/div&gt;
 </description>
@@ -725,7 +725,7 @@ NCAA Division III Outdoor Track National Qualifier in 10,000 meters
   gtag(&#39;config&#39;, &#39;UA-123245200-1&#39;);
 &lt;/script&gt;
 &lt;div align=&#34;center&#34;&gt;
-&lt;iframe src=&#34;http://159.65.226.102:3838/PaceCalculator/&#34; scrolling=&#34;yes&#34; frameborder=&#34;no&#34; width=&#34;1000&#34; height=&#34;1250&#34;&gt;
+&lt;iframe src=&#34;http://159.65.226.102/shiny/PaceCalculator/&#34; scrolling=&#34;yes&#34; frameborder=&#34;no&#34; width=&#34;1000&#34; height=&#34;1250&#34;&gt;
 &lt;/iframe&gt;
 &lt;/div&gt;
 </description>
@@ -752,7 +752,7 @@ NCAA Division III Outdoor Track National Qualifier in 10,000 meters
   gtag(&#39;config&#39;, &#39;UA-123245200-1&#39;);
 &lt;/script&gt;
 &lt;div align=&#34;center&#34;&gt;
-&lt;iframe src=&#34;http://159.65.226.102:3838/SingleItemCharacteristicCurve/&#34; scrolling=&#34;yes&#34; frameborder=&#34;no&#34; width=&#34;1000&#34; height=&#34;1250&#34;&gt;
+&lt;iframe src=&#34;http://159.65.226.102/shiny/SingleItemCharacteristicCurve/&#34; scrolling=&#34;yes&#34; frameborder=&#34;no&#34; width=&#34;1000&#34; height=&#34;1250&#34;&gt;
 &lt;/iframe&gt;
 &lt;/div&gt;
 </description>
