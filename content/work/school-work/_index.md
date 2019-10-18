@@ -27,7 +27,7 @@ Project:
 </li>
 <ul>
 <li>
-<a href="https://jordanmwheeler.com/work/shinyapps/forecastapp/" target="_blank">Master
+<a href="http://159.65.226.102/shiny/ForecastingApplication" target="_blank">Master
 of Science Project Web Application</a> (Automated ARMA+GARCH Stock
 Forecasting)</b>
 </li>

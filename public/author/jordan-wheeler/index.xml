@@ -1405,7 +1405,7 @@ Project:
 &lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://jordanmwheeler.com/work/shinyapps/forecastapp/&#34; target=&#34;_blank&#34;&gt;Master of Science Project Web Application&lt;/a&gt; (Automated ARMA+GARCH Stock Forecasting)&lt;/b&gt;
+&lt;a href=&#34;http://159.65.226.102/shiny/ForecastingApplication&#34; target=&#34;_blank&#34;&gt;Master of Science Project Web Application&lt;/a&gt; (Automated ARMA+GARCH Stock Forecasting)&lt;/b&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;Papers/MasterProjectWriteUp.pdf&#34; target=&#34;_blank&#34;&gt;Master of Science Project Write Up&lt;/a&gt; (Automated ARMA+GARCH Stock Forecasting)&lt;/b&gt;
@@ -1676,7 +1676,7 @@ Item Response Theory Applications:
 &lt;/h2&gt;
 &lt;div&gt;
 &lt;h6 style=&#34;float: left; font-size: 12pt; text-align: center; width: 45%; margin-right: 5%; margin-bottom: 0.5em;&#34;&gt;
-Item Characteristic Curve:&lt;br/&gt;&lt;br/&gt;&lt;a href = &#34;singleiccapp/&#34;&gt;&lt;img src=&#34;thumbnails/ICCPhoto.JPG&#34; alt=&#34;Single Item Characteristic Curve Application&#34;&gt;&lt;/a&gt;
+Item Characteristic Curve:&lt;br/&gt;&lt;br/&gt;&lt;a href = &#34;http://159.65.226.102/shiny/SingleItemCharacteristicCurve/&#34;&gt;&lt;img src=&#34;thumbnails/ICCPhoto.JPG&#34; alt=&#34;Single Item Characteristic Curve Application&#34;&gt;&lt;/a&gt;
 &lt;/h6&gt;
 &lt;/div&gt;
 &lt;br/&gt;
@@ -1687,9 +1687,12 @@ Master’s Project Application:
 &lt;br/&gt;&lt;/p&gt;
 &lt;div&gt;
 &lt;h6 style=&#34;float: left; font-size: 12pt; text-align: center; width: 45%; margin-right: 5%; margin-bottom: 0.5em;&#34;&gt;
-NYSE Automatic Forecast:&lt;br/&gt;&lt;br/&gt;&lt;a href = &#34;forecastapp/&#34;&gt;&lt;img src=&#34;thumbnails/forecastphoto.jpg&#34; alt=&#34;Stock Forecasting Application&#34;&gt;&lt;/a&gt;
+NYSE Automatic Forecast:&lt;br/&gt;&lt;br/&gt;&lt;a href = &#34;http://159.65.226.102/shiny/ForecastingApplication&#34;&gt;&lt;img src=&#34;thumbnails/forecastphoto.jpg&#34; alt=&#34;Stock Forecasting Application&#34;&gt;&lt;/a&gt;
 &lt;/h6&gt;
 &lt;/div&gt;
+&lt;!-- &lt;div&gt; --&gt;
+&lt;!-- &lt;h6 style=&#34;float: left; font-size: 12pt; text-align: center; width: 45%; margin-right: 5%; margin-bottom: 0.5em;&#34;&gt;NYSE Automatic Forecast:&lt;br/&gt;&lt;br/&gt;&lt;a href = &#34;forecastapp/&#34;&gt;&lt;img src=&#34;thumbnails/forecastphoto.jpg&#34; alt=&#34;Stock Forecasting Application&#34;&gt;&lt;/a&gt;&lt;/h6&gt; --&gt;
+&lt;!-- &lt;/div&gt; --&gt;
 &lt;br/&gt;
 &lt;h2 style=&#34;float: left; width: 100%;&#34;&gt;
 Old Applications (First App’s I Created):
@@ -1698,10 +1701,10 @@ Old Applications (First App’s I Created):
 &lt;br/&gt;&lt;/p&gt;
 &lt;div&gt;
 &lt;h6 style=&#34;float: left; font-size: 12pt; text-align: center; width: 45%; margin-right: 5%; margin-bottom: 0.5em;&#34;&gt;
-Linear Model Report:&lt;br/&gt;&lt;br/&gt;&lt;a href = &#34;lmdiamondreportapp/&#34;&gt;&lt;img src=&#34;thumbnails/LMReportPhoto.jpg&#34; alt=&#34;Linear Model on Diamonds Report Application&#34;&gt;&lt;/a&gt;
+Linear Model Report:&lt;br/&gt;&lt;br/&gt;&lt;a href = &#34;http://159.65.226.102/shiny/DiamondReportApplication/&#34;&gt;&lt;img src=&#34;thumbnails/LMReportPhoto.jpg&#34; alt=&#34;Linear Model on Diamonds Report Application&#34;&gt;&lt;/a&gt;
 &lt;/h6&gt;
 &lt;h6 style=&#34;float: left; font-size: 12pt; text-align: center; width: 45%; margin-left: 5%; margin-bottom: 0.5em;&#34;&gt;
-Running and Pace Calculator:&lt;br/&gt;&lt;br/&gt;&lt;a href = &#34;pacecalculatorapp/&#34;&gt;&lt;img src=&#34;thumbnails/PaceCalcPhoto.jpg&#34; alt=&#34;Pace Calculator Application&#34;&gt;&lt;/a&gt;
+Running and Pace Calculator:&lt;br/&gt;&lt;br/&gt;&lt;a href = &#34;http://159.65.226.102/shiny/PaceCalculator/&#34;&gt;&lt;img src=&#34;thumbnails/PaceCalcPhoto.jpg&#34; alt=&#34;Pace Calculator Application&#34;&gt;&lt;/a&gt;
 &lt;/h6&gt;
 &lt;div/&gt;
 &lt;p&gt;&lt;br/&gt;
